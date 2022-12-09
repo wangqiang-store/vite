@@ -1,0 +1,54 @@
+// 通知框
+.notice-popover {
+  padding: 0 !important;
+  .popover-header {
+    padding: 10px;
+    border-bottom: 1px solid $borderColor;
+    & div span {
+      cursor: pointer;
+      color: #108ee9;
+    }
+  }
+  .popover-main {
+    border-bottom: 1px solid $borderColor;
+    & .el-scrollbar__view a {
+      cursor: pointer;
+      display: block;
+    }
+
+    & .el-scrollbar__view .notice-title {
+      font-size: 14px;
+      font-weight: 400;
+    }
+
+    & .el-scrollbar__view a:hover {
+      background-color: rgba($color: #171815, $alpha: 0.1);
+    }
+    & .el-scrollbar__view a p:last-child {
+      font-size: 13px;
+      color: $smallTextColor;
+    }
+
+    .active {
+      color: $smallTextColor;
+    }
+
+    .noNotify {
+      height: 400px;
+      background: url("@/assets/image/home/noNotify.svg") no-repeat center / 60%;
+    }
+  }
+
+  .popover-footer {
+    height: 40px;
+    cursor: pointer;
+    color: #108ee9;
+    text-align: center;
+    line-height: 40px;
+  }
+}
+
+.el-badge__content.is-dot {
+  width: 10px;
+  height: 10px;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="480px" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>插画icon@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.9%" y="-300.0%" width="121.7%" height="700.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0%" y1="37.3202679%" x2="100%" y2="37.3202679%" id="linearGradient-2">
+            <stop stop-color="#1FABFB" offset="0%"></stop>
+            <stop stop-color="#406CFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFF1E4" offset="0%"></stop>
+            <stop stop-color="#FFDBC5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="插画icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="缺省/没有通知" transform="translate(75.000000, 95.000000)">
+            <g id="统一背景备份-9">
+                <rect id="矩形" fill="#EEEEEE" x="47" y="0" width="246" height="24" rx="10"></rect>
+                <rect id="矩形备份" fill="#EEEEEE" x="19" y="49" width="292" height="23" rx="10"></rect>
+                <rect id="矩形备份-2" fill="#EEEEEE" x="21" y="152" width="291" height="23" rx="10"></rect>
+                <rect id="矩形备份-3" fill="#EEEEEE" x="0" y="99" width="329" height="23" rx="10"></rect>
+                <rect id="矩形备份-5" fill="#EEEEEE" x="47" y="201" width="235" height="24" rx="10"></rect>
+                <ellipse id="椭圆形" fill="#3D3D3D" opacity="0.400000006" filter="url(#filter-1)" cx="164.5" cy="286" rx="110.5" ry="4"></ellipse>
+            </g>
+            <g id="编组" transform="translate(86.000000, 42.000000)">
+                <rect id="矩形" fill="#B2DFFF" x="67" y="0" width="22" height="27" rx="11"></rect>
+                <path d="M78.4482759,16 C108.900114,16 133.586207,40.6860926 133.586207,71.137931 L133.586,120.922 L138.96129,120.922581 C148.37151,120.922581 156,128.551071 156,137.96129 C156,147.37151 148.37151,155 138.96129,155 L17.0387097,155 C7.62849017,155 1.15241952e-15,147.37151 0,137.96129 C-1.15241952e-15,128.551071 7.62849017,120.922581 17.0387097,120.922581 L23.31,120.922 L23.3103448,71.137931 C23.3103448,40.6860926 47.9964374,16 78.4482759,16 Z M101.331041,61.7206832 C100.280665,60.6703076 98.5776698,60.6703076 97.5272941,61.7206832 L97.5272941,61.7206832 L77.5526735,81.695255 L57.5829972,61.7265824 C56.5323609,60.675946 54.8289428,60.675946 53.7783065,61.7265824 C52.7276702,62.7772187 52.7276702,64.4806367 53.7783065,65.531273 L53.7783065,65.531273 L73.7477319,85.5001966 L53.7724074,105.47557 C52.7220317,106.525946 52.7220317,108.228941 53.7724074,109.279317 C54.8227831,110.329692 56.5257785,110.329692 57.5761542,109.279317 L57.5761542,109.279317 L77.5512593,89.303724 L97.5204511,109.273418 C98.5710874,110.324054 100.274505,110.324054 101.325142,109.273418 C102.375778,108.222781 102.375778,106.519363 101.325142,105.468727 L101.325142,105.468727 L81.3562009,85.4987824 L101.331041,65.5244301 C102.381417,64.4740544 102.381417,62.7710589 101.331041,61.7206832 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                <path d="M77.613,185.999 L77.5,186 C77.4623232,186 77.4246714,185.99989 77.3870449,185.999672 L77.613,185.999 Z M77.5,146 C88.2695526,146 97,154.954305 97,166 L97,166 L58,166 L58.0028943,165.651892 C58.1840248,154.766785 66.8438111,146 77.5,146 Z" id="形状结合" fill="url(#linearGradient-3)" transform="translate(77.500000, 166.000000) scale(1, -1) translate(-77.500000, -166.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
